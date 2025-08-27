@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard</title>
+  </head>
+  <body>
+
+    <div class="ebi">
+
+    </div>
+
+    <aside>
+      <header>
+        <a href="#" data-tab="home" >
+          <span class="ri-home-line"></span>
+          Home
+        </a>
+      </header>
+    </aside>
+
+    <main>
+      <section id="home">
+        <header>
+          <img src="https://prog-8.com/production/images/user/17515455752938FFB2-DDC9-4A7E-B694-6DD3BAAFECAD.jpg">
+          <div>
+          <span class="ri-user-smile-line"></span>
+          </div>
+          <div>
+            <h1>Welcome to Your Personal Dashboard</h1>
+            <h2>Make your daily life more convenient and enjoyable</h2>
+            </div>
+        </header>
+
+       <div>
+        <p>This dashboard is a tool to enrich your daily life. You can easily use essential features such as diary entries, memo management, and checking weather information.</p>
+        <p>Small daily records become irreplaceable memories, and efficient task management leads to fulfilling days. Please use this as a partner that supports your everyday life.</p>        
+       </div>
+      </section>
+    </main>
+  </body>
+</html>
